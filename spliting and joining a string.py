@@ -1,0 +1,6 @@
+a=str(input("enter a string "))
+print(a)
+words=a.split(',')
+print(words)
+sen=" ".join(words)
+print(sen)
